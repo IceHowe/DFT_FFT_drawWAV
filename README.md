@@ -15,7 +15,10 @@ WAV文件解析参考以下链接：
 
 1. https://blog.csdn.net/imxiangzi/article/details/80265978
    注意，看了第1个链接你会发现很简单，而你也确实可以解析一些WAV文件了，但是还有许多是其它格式的。
-2. https://www.cnblogs.com/Free-Thinker/p/10489491.html![img](https://upload-images.jianshu.io/upload_images/1877190-9b3280fb45d4a183.png)
+   
+2. https://www.cnblogs.com/Free-Thinker/p/10489491.html
+   
+   ![img](https://upload-images.jianshu.io/upload_images/1877190-9b3280fb45d4a183.png)
    ![img](https://upload-images.jianshu.io/upload_images/1877190-259a4c9edfc4092c.png)
 
 主要就是参考第二个链接里的这两个图片修改的。
